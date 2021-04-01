@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A5DCB6062615A4D400D11AC3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DCB6052615A4D400D11AC3 /* main.swift */; };
+		A5DCB61B2615B03100D11AC3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5DCB61A2615B03100D11AC3 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A5DCB6002615A4D400D11AC3 /* CopyFiles */ = {
+		A5DCB6152615B03100D11AC3 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A5DCB6022615A4D400D11AC3 /* 1stApril2020 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1stApril2020; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5DCB6052615A4D400D11AC3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A5DCB6172615B03100D11AC3 /* PalindromeLinkedList Solution */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "PalindromeLinkedList Solution"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5DCB61A2615B03100D11AC3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A5DCB5FF2615A4D400D11AC3 /* Frameworks */ = {
+		A5DCB6142615B03100D11AC3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,65 +38,65 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A5DCB5F92615A4D400D11AC3 = {
+		A5DCB60E2615B03100D11AC3 = {
 			isa = PBXGroup;
 			children = (
-				A5DCB6042615A4D400D11AC3 /* 1stApril2020 */,
-				A5DCB6032615A4D400D11AC3 /* Products */,
+				A5DCB6192615B03100D11AC3 /* PalindromeLinkedList Solution */,
+				A5DCB6182615B03100D11AC3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A5DCB6032615A4D400D11AC3 /* Products */ = {
+		A5DCB6182615B03100D11AC3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A5DCB6022615A4D400D11AC3 /* 1stApril2020 */,
+				A5DCB6172615B03100D11AC3 /* PalindromeLinkedList Solution */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A5DCB6042615A4D400D11AC3 /* 1stApril2020 */ = {
+		A5DCB6192615B03100D11AC3 /* PalindromeLinkedList Solution */ = {
 			isa = PBXGroup;
 			children = (
-				A5DCB6052615A4D400D11AC3 /* main.swift */,
+				A5DCB61A2615B03100D11AC3 /* main.swift */,
 			);
-			path = 1stApril2020;
+			path = "PalindromeLinkedList Solution";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A5DCB6012615A4D400D11AC3 /* 1stApril2020 */ = {
+		A5DCB6162615B03100D11AC3 /* PalindromeLinkedList Solution */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A5DCB6092615A4D400D11AC3 /* Build configuration list for PBXNativeTarget "1stApril2020" */;
+			buildConfigurationList = A5DCB61E2615B03100D11AC3 /* Build configuration list for PBXNativeTarget "PalindromeLinkedList Solution" */;
 			buildPhases = (
-				A5DCB5FE2615A4D400D11AC3 /* Sources */,
-				A5DCB5FF2615A4D400D11AC3 /* Frameworks */,
-				A5DCB6002615A4D400D11AC3 /* CopyFiles */,
+				A5DCB6132615B03100D11AC3 /* Sources */,
+				A5DCB6142615B03100D11AC3 /* Frameworks */,
+				A5DCB6152615B03100D11AC3 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = 1stApril2020;
-			productName = 1stApril2020;
-			productReference = A5DCB6022615A4D400D11AC3 /* 1stApril2020 */;
+			name = "PalindromeLinkedList Solution";
+			productName = "PalindromeLinkedList Solution";
+			productReference = A5DCB6172615B03100D11AC3 /* PalindromeLinkedList Solution */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A5DCB5FA2615A4D400D11AC3 /* Project object */ = {
+		A5DCB60F2615B03100D11AC3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
 				TargetAttributes = {
-					A5DCB6012615A4D400D11AC3 = {
+					A5DCB6162615B03100D11AC3 = {
 						CreatedOnToolsVersion = 12.3;
 					};
 				};
 			};
-			buildConfigurationList = A5DCB5FD2615A4D400D11AC3 /* Build configuration list for PBXProject "1stApril2020" */;
+			buildConfigurationList = A5DCB6122615B03100D11AC3 /* Build configuration list for PBXProject "PalindromeLinkedList Solution" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -104,29 +104,29 @@
 				en,
 				Base,
 			);
-			mainGroup = A5DCB5F92615A4D400D11AC3;
-			productRefGroup = A5DCB6032615A4D400D11AC3 /* Products */;
+			mainGroup = A5DCB60E2615B03100D11AC3;
+			productRefGroup = A5DCB6182615B03100D11AC3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A5DCB6012615A4D400D11AC3 /* 1stApril2020 */,
+				A5DCB6162615B03100D11AC3 /* PalindromeLinkedList Solution */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A5DCB5FE2615A4D400D11AC3 /* Sources */ = {
+		A5DCB6132615B03100D11AC3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A5DCB6062615A4D400D11AC3 /* main.swift in Sources */,
+				A5DCB61B2615B03100D11AC3 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A5DCB6072615A4D400D11AC3 /* Debug */ = {
+		A5DCB61C2615B03100D11AC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		A5DCB6082615A4D400D11AC3 /* Release */ = {
+		A5DCB61D2615B03100D11AC3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +241,7 @@
 			};
 			name = Release;
 		};
-		A5DCB60A2615A4D400D11AC3 /* Debug */ = {
+		A5DCB61F2615B03100D11AC3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -250,7 +250,7 @@
 			};
 			name = Debug;
 		};
-		A5DCB60B2615A4D400D11AC3 /* Release */ = {
+		A5DCB6202615B03100D11AC3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -262,25 +262,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A5DCB5FD2615A4D400D11AC3 /* Build configuration list for PBXProject "1stApril2020" */ = {
+		A5DCB6122615B03100D11AC3 /* Build configuration list for PBXProject "PalindromeLinkedList Solution" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A5DCB6072615A4D400D11AC3 /* Debug */,
-				A5DCB6082615A4D400D11AC3 /* Release */,
+				A5DCB61C2615B03100D11AC3 /* Debug */,
+				A5DCB61D2615B03100D11AC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A5DCB6092615A4D400D11AC3 /* Build configuration list for PBXNativeTarget "1stApril2020" */ = {
+		A5DCB61E2615B03100D11AC3 /* Build configuration list for PBXNativeTarget "PalindromeLinkedList Solution" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A5DCB60A2615A4D400D11AC3 /* Debug */,
-				A5DCB60B2615A4D400D11AC3 /* Release */,
+				A5DCB61F2615B03100D11AC3 /* Debug */,
+				A5DCB6202615B03100D11AC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A5DCB5FA2615A4D400D11AC3 /* Project object */;
+	rootObject = A5DCB60F2615B03100D11AC3 /* Project object */;
 }
